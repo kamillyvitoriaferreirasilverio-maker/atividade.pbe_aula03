@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "Flamengo",
+        "vitorias": 10,
+        "empates": 5,
+        "derrotas": 3
+    },
+    {
+        "id": 2,
+        "nome": "Palmeiras",
+        "vitorias": 9,
+        "empates": 7,
+        "derrotas": 2
+    },
+    {
+        "id": 3,
+        "nome": "Santos",
+        "vitorias": 6,
+        "empates": 4,
+        "derrotas": 8
+    },
+    {
+        "id": 4,
+        "nome": "Corinthians",
+        "vitorias": 5,
+        "empates": 6,
+        "derrotas": 7
+    }
+]

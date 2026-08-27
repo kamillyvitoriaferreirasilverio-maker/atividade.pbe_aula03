@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Clubes</title>
+</head>
+
+<body>
+
+    <center>
+
+        <h1>Cadastro de Clubes de Futebol</h1>
+
+        <form action="http://127.0.0.1:3000" method="post">
+
+            <input
+                type="number"
+                placeholder="ID"
+                name="id"
+                required
+            >
+            <br><br>
+
+            <input
+                type="text"
+                placeholder="Nome do clube"
+                name="nome"
+                required
+            >
+            <br><br>
+
+            <input
+                type="number"
+                placeholder="Vitórias"
+                name="vitorias"
+                required
+            >
+            <br><br>
+
+            <input
+                type="number"
+                placeholder="Empates"
+                name="empates"
+                required
+            >
+            <br><br>
+
+            <input
+                type="number"
+                placeholder="Derrotas"
+                name="derrotas"
+                required
+            >
+            <br><br>
+
+            <button type="reset">Limpar</button>
+            <button type="submit">Cadastrar</button>
+
+        </form>
+
+    </center>
+
+</body>
+
+</html>

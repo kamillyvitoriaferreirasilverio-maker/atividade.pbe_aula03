@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "data": "27-08-2026",
+        "paciente": "Percy Jackson",
+        "peso": 70,
+        "altura": 1.80
+    },
+    {
+        "id": 2,
+        "data": "28-08-2026",
+        "paciente": "Annabeth Chase",
+        "peso": 60,
+        "altura": 1.65
+    },
+    {
+        "id": 3,
+        "data": "29-08-2026",
+        "paciente": "Grover Underwood",
+        "peso": 80,
+        "altura": 1.75
+    }
+]
